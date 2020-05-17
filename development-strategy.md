@@ -10,7 +10,7 @@ write a short description of your web page:
 
 ## Wireframe
 
-![wireframe](./wireframe.gif)
+![wireframe](https://user-images.githubusercontent.com/62182810/82148122-b636b400-9852-11ea-93c3-74b0ca2de7b7.gif)
 
 ## 0. Set-Up
 
