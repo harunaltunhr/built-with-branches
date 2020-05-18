@@ -4,9 +4,9 @@
 
 write a short description of your web page:
 
-- what is it about?
-- who would want to read it?
-- why would they want to read it?
+- This page is about job opportunity in Europe as a developer.
+- All jobseeker ICT sectors in europe area should look this page.
+- This pages _( will be article series)_ will give main instructions & tricks for looking job in ICT.
 
 ## Wireframe
 
