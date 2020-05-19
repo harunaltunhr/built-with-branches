@@ -30,3 +30,21 @@
   font-size: 1.2em;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
+.aside {
+    background-color: bisque;
+    float: left;
+    width: 24%;
+    height: max-content;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.aside h4,h3{
+    text-align: center;
+    color: red;
+}
+.aside li{
+    padding: 20px;
+}
+.aside ul li a{
+    text-decoration: none;
+    color:blue;
+}
