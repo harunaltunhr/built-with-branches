@@ -17,3 +17,9 @@ bottom: 0;
 font-size: 1em;
 
 }
+.section{
+   background-color: bisque;
+   float: left; 
+   padding: 20px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
