@@ -42,8 +42,6 @@
   top: 125px;
   right: 0;
   width: 20%;
-  height: auto;
-  
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 .aside h4,
@@ -52,7 +50,7 @@ h3 {
   color: red;
 }
 .aside li {
-  padding: 38px;
+  padding: 27px;
 
 }
 .aside ul li a {
